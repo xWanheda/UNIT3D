@@ -6,14 +6,14 @@
 */
 
 return [
-    'failed' => 'These credentials do not match our records.',
-    'throttle' => 'Too many login attempts. Please try again in :seconds seconds.',
-    'login' => 'Login',
-    'signup' => 'Signup',
-    'logout' => 'Logout',
-    'username' => 'Username',
-    'password' => 'Password',
-    'lost-password' => 'Forgot Your Password?',
-    'recover-my-password' => 'Recover My Password',
-    'remember-me' => 'Remember Me',
+    'failed' => 'Bu bilgiler kayıtlarımızla eşleşmiyorlar.',
+    'throttle' => 'Çok fazla giriş yapmaya kalkıştın. Lütfen :seconds seconds. içerisinde tekrar deneyin.',
+    'login' => 'Giriş',
+    'signup' => 'Kayıt',
+    'logout' => 'Çıkış',
+    'username' => 'Kullanıcı Adı',
+    'password' => 'Şifre',
+    'lost-password' => 'Şifreni mi unuttun ?',
+    'recover-my-password' => 'Şifremi Kurtar',
+    'remember-me' => 'Beni Hatırla',
 ];
