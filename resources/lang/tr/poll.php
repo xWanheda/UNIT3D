@@ -6,14 +6,14 @@
 */
 
 return [
-    'poll' => 'Poll',
-    'polls' => 'Polls',
-    'current' => 'Current Poll(s)',
-    'total' => 'Total Votes Ever',
-    'vote-now' => 'Get Your Vote In Now!',
-    'results' => 'Poll Results',
-    'multiple-choice' => 'This is a multiple choice poll. Select as many answers as you like.',
-    'ip-checking' => 'This poll has duplicate vote checking. You can only vote once.',
-    'vote' => 'Vote',
-    'votes' => 'Votes',
+    'poll' => 'Anket',
+    'polls' => 'Anketler',
+    'current' => 'Şuanki Anketler',
+    'total' => 'Toplam Oylar',
+    'vote-now' => 'Şimdi Oyunu Kullan !',
+    'results' => 'Anket Sonuçları',
+    'multiple-choice' => 'Bu birden fazla seçmeli ankettir. İstediğin kadar cevap seçebilirsin.',
+    'ip-checking' => 'Bu anket ikili oy verme kontrolüne sahiptir. Sadece bir kereliğine oy verebilirsiniz.',
+    'vote' => 'Oy Ver',
+    'votes' => 'Oylar',
 ];
